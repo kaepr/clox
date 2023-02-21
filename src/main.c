@@ -1,21 +1,35 @@
-#include "chunk.h"
 #include "common.h"
-#include "debug.h"
+#include "vm.h"
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+static void repl() {
+    char line[1024];
+    for (;;) {
+        printf("> ");
+
+        if (!fgets(line, sizeof(line), stdin)) {
+            printf("\n");
+            break;
+        }
+
+        interpret(line);
+    }
+}
 
 int main(int argc, const char* argv[]) {
-    Chunk chunk;
+    initVM();
 
-    initChunk(&chunk);
+    if (argc == 1) {
+        repl();
+    } else if (argc == 2) {
+        runFile(argv[1]);
+    } else {
+        fprintf(stderr, "Usage: clox [path]\n");
+        exit(64);
+    }
 
-    int constant = addConstant(&chunk, 1.2);
-    writeChunk(&chunk, OP_CONSTANT, 123);
-    writeChunk(&chunk, constant, 123);
-
-    writeChunk(&chunk, OP_RETURN, 123);
-
-    disassembleChunk(&chunk, "test chunk");
-    freeChunk(&chunk);
-
+    freeVM();
     return 0;
 }
