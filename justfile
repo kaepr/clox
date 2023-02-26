@@ -1,7 +1,10 @@
+default:
+    @just --list
+
 build:
     gcc -Wall ./src/*.c -o ./build/main  
 
-run:
+run *PATH:
     just build
-    ./build/main
+    ./build/main {{PATH}}
 
