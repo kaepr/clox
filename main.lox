@@ -1,10 +1,9 @@
-var b = "john";
-var a = "doe";
-b = a + "hello";
+fun fib(n) {
+        if(n < 2) return n;
+        return fib(n - 2) + fib(n-1);
+        
+    }
 
-print b;
-
-for(var i =0; i<10; i = i + 1) {
-        print i;
-}
-
+var start = clock();
+print fib(35);
+print clock() - start;
