@@ -1,19 +1,15 @@
-fun outer(){
-    var z = "outside";
-    var y = "outside";
-    var x = "outside";
-    var a = "outside";
-    var m = "outside";
-    var b = "outside";
-
-    fun inner() {
-        print y + x;
-        print x;
+fun m() {
+    var a = "hi";
+    fun f() {
+        print a;
     }
-
-    return inner;
+    return f;
 }
 
-var c = outer();
-c();
-
+{
+    var hi = "hi";
+    hi = "adasd";
+    print hi;
+    var c = m();
+    c();
+}
