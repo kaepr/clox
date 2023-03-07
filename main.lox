@@ -1,7 +1,12 @@
-class Pair{}
+class Oops {
+  init() {
+    fun f() {
+      print "not a method";
+    }
 
-var pair = Pair();
+    this.field = f;
+  }
+}
 
-pair.first = 1;
-pair.second = 2;
-print pair.first + pair.second;
+var oops = Oops();
+oops.field();

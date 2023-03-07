@@ -1,0 +1,896 @@
+-- gc begin
+-- gc end
+   collected 0 bytes (from 6 to 6) next at 12
+-- gc begin
+-- gc end
+   collected 0 bytes (from 46 to 46) next at 92
+0x55572a4df2d0 allocate 40 for 6
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 238 to 238) next at 476
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 262 to 262) next at 524
+0x55572a4df420 allocate 24 for 5
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 454 to 454) next at 908
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 526 to 526) next at 1052
+0x55572a4df6f0 allocate 72 for 3
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 531 to 531) next at 1062
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 571 to 571) next at 1142
+0x55572a4df760 allocate 40 for 6
+-- gc begin
+0x55572a4df760 mark Pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df760 blacken Pair
+-- gc end
+   collected 0 bytes (from 699 to 699) next at 1398
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 707 to 707) next at 1414
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 739 to 739) next at 1478
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 745 to 745) next at 1490
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 785 to 785) next at 1570
+0x55572a4df890 allocate 40 for 6
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 857 to 857) next at 1714
+0x55572a4df8c0 allocate 72 for 3
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 873 to 873) next at 1746
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 913 to 913) next at 1826
+0x55572a4df930 allocate 40 for 6
+-- gc begin
+0x55572a4df930 mark Hello from pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df930 blacken Hello from pair
+-- gc end
+   collected 0 bytes (from 1041 to 1041) next at 2082
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1049 to 1049) next at 2098
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1081 to 1081) next at 2162
+== hello ==
+0000    3 OP_CONSTANT         0 'Hello from pair'
+0002     | OP_PRINT
+0003    4 OP_NIL
+0004     | OP_RETURN
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1089 to 1089) next at 2178
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1121 to 1121) next at 2242
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1126 to 1126) next at 2252
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1166 to 1166) next at 2332
+0x55572a4df840 allocate 40 for 6
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1182 to 1182) next at 2364
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1246 to 1246) next at 2492
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1248 to 1248) next at 2496
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1288 to 1288) next at 2576
+0x55572a4dfb70 allocate 40 for 6
+-- gc begin
+0x55572a4df890 mark hello
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df890 blacken hello
+-- gc end
+   collected 0 bytes (from 1416 to 1416) next at 2832
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1422 to 1422) next at 2844
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1462 to 1462) next at 2924
+0x55572a4dfcd0 allocate 40 for 6
+-- gc begin
+0x55572a4dfcd0 mark first
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4dfcd0 blacken first
+-- gc end
+   collected 0 bytes (from 1846 to 1846) next at 3692
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1686 to 1686) next at 3372
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1814 to 1814) next at 3628
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1821 to 1821) next at 3642
+-- gc begin
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+-- gc end
+   collected 0 bytes (from 1861 to 1861) next at 3722
+0x55572a4dfab0 allocate 40 for 6
+-- gc begin
+0x55572a4df840 mark pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df840 blacken pair
+-- gc end
+   collected 0 bytes (from 2117 to 2117) next at 4234
+== <script> ==
+0000    1 OP_CLASS            0 'Pair'
+0002     | OP_DEFINE_GLOBAL    0 'Pair'
+0004     | OP_GET_GLOBAL       1 'Pair'
+0006    4 OP_CLOSURE          3 <fn hello>
+0008     | OP_METHOD           2 'hello'
+0010    5 OP_POP
+0011    7 OP_GET_GLOBAL       5 'Pair'
+0013     | OP_CALL             0
+0015     | OP_DEFINE_GLOBAL    4 'pair'
+0017    8 OP_GET_GLOBAL       7 'pair'
+0019     | OP_GET_PROPERTY     8 'hello'
+0021     | OP_DEFINE_GLOBAL    6 'p'
+0023    9 OP_GET_GLOBAL       9 'p'
+0025     | OP_CALL             0
+0027     | OP_POP
+0028   11 OP_GET_GLOBAL      10 'pair'
+0030     | OP_CONSTANT        12 '1'
+0032     | OP_SET_PROPERTY    11 'first'
+0034     | OP_POP
+0035   12 OP_GET_GLOBAL      13 'pair'
+0037     | OP_CONSTANT        15 '2'
+0039     | OP_SET_PROPERTY    14 'second'
+0041     | OP_POP
+0042   13 OP_GET_GLOBAL      16 'pair'
+0044     | OP_GET_PROPERTY    17 'first'
+0046     | OP_GET_GLOBAL      18 'pair'
+0048     | OP_GET_PROPERTY    19 'second'
+0050     | OP_ADD
+0051     | OP_PRINT
+0052   14 OP_NIL
+0053     | OP_RETURN
+-- gc begin
+0x55572a4df6f0 mark <script>
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+-- gc end
+   collected 0 bytes (from 2157 to 2157) next at 4314
+0x55572a4e02b0 allocate 40 for 2
+        [ <script> ]
+0000    1 OP_CLASS            0 'Pair'
+-- gc begin
+0x55572a4e02b0 mark <script>
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4e02b0 blacken <script>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df760 mark Pair
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+-- gc end
+   collected 0 bytes (from 2197 to 2197) next at 4394
+0x55572a4e02e0 allocate 40 for 1
+        [ <script> ][ Pair ]
+0002     | OP_DEFINE_GLOBAL    0 'Pair'
+        [ <script> ]
+0004     | OP_GET_GLOBAL       1 'Pair'
+        [ <script> ][ Pair ]
+0006    4 OP_CLOSURE          3 <fn hello>
+-- gc begin
+0x55572a4e02b0 mark <script>
+0x55572a4e02e0 mark Pair
+0x55572a4df760 mark Pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df760 blacken Pair
+0x55572a4e02e0 blacken Pair
+0x55572a4e02b0 blacken <script>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df890 mark hello
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+-- gc end
+   collected 0 bytes (from 2237 to 2237) next at 4474
+0x55572a4e0310 allocate 40 for 2
+        [ <script> ][ Pair ][ <fn hello> ]
+0008     | OP_METHOD           2 'hello'
+-- gc begin
+0x55572a4e02b0 mark <script>
+0x55572a4e02e0 mark Pair
+0x55572a4e0310 mark <fn hello>
+0x55572a4df760 mark Pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df760 blacken Pair
+0x55572a4e0310 blacken <fn hello>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df890 mark hello
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4e02e0 blacken Pair
+0x55572a4e02b0 blacken <script>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+-- gc end
+   collected 0 bytes (from 2429 to 2429) next at 4858
+        [ <script> ][ Pair ]
+0010    5 OP_POP
+        [ <script> ]
+0011    7 OP_GET_GLOBAL       5 'Pair'
+        [ <script> ][ Pair ]
+0013     | OP_CALL             0
+-- gc begin
+0x55572a4e02b0 mark <script>
+0x55572a4e02e0 mark Pair
+0x55572a4df760 mark Pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df760 blacken Pair
+0x55572a4e02e0 blacken Pair
+0x55572a4df890 mark hello
+0x55572a4e0310 mark <fn hello>
+0x55572a4e0310 blacken <fn hello>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4e02b0 blacken <script>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4df840 mark pair
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+0x55572a4df840 blacken pair
+-- gc end
+   collected 0 bytes (from 2469 to 2469) next at 4938
+0x55572a4e0340 allocate 40 for 4
+        [ <script> ][ Pair instance ]
+0015     | OP_DEFINE_GLOBAL    4 'pair'
+        [ <script> ]
+0017    8 OP_GET_GLOBAL       7 'pair'
+        [ <script> ][ Pair instance ]
+0019     | OP_GET_PROPERTY     8 'hello'
+-- gc begin
+0x55572a4e02b0 mark <script>
+0x55572a4e0340 mark Pair instance
+0x55572a4df760 mark Pair
+0x55572a4e02e0 mark Pair
+0x55572a4df840 mark pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df840 blacken pair
+0x55572a4e02e0 blacken Pair
+0x55572a4df890 mark hello
+0x55572a4e0310 mark <fn hello>
+0x55572a4e0310 blacken <fn hello>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4df760 blacken Pair
+0x55572a4e0340 blacken Pair instance
+0x55572a4e02b0 blacken <script>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4dfb70 mark p
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+0x55572a4dfb70 blacken p
+-- gc end
+   collected 0 bytes (from 2509 to 2509) next at 5018
+0x55572a4e0370 allocate 40 for 0
+        [ <script> ][ <fn hello> ]
+0021     | OP_DEFINE_GLOBAL    6 'p'
+        [ <script> ]
+0023    9 OP_GET_GLOBAL       9 'p'
+        [ <script> ][ <fn hello> ]
+0025     | OP_CALL             0
+        [ <script> ][ <fn hello> ]
+0000    3 OP_CONSTANT         0 'Hello from pair'
+        [ <script> ][ <fn hello> ][ Hello from pair ]
+0002     | OP_PRINT
+Hello from pair
+        [ <script> ][ <fn hello> ]
+0003    4 OP_NIL
+        [ <script> ][ <fn hello> ][ nil ]
+0004     | OP_RETURN
+        [ <script> ][ nil ]
+0027     | OP_POP
+        [ <script> ]
+0028   11 OP_GET_GLOBAL      10 'pair'
+        [ <script> ][ Pair instance ]
+0030     | OP_CONSTANT        12 '1'
+        [ <script> ][ Pair instance ][ 1 ]
+0032     | OP_SET_PROPERTY    11 'first'
+-- gc begin
+0x55572a4e02b0 mark <script>
+0x55572a4e0340 mark Pair instance
+0x55572a4df760 mark Pair
+0x55572a4e02e0 mark Pair
+0x55572a4df840 mark pair
+0x55572a4df2d0 mark clock
+0x55572a4df420 mark <native fn>
+0x55572a4dfb70 mark p
+0x55572a4e0370 mark <fn hello>
+0x55572a4e0370 blacken <fn hello>
+0x55572a4e0310 mark <fn hello>
+0x55572a4e0310 blacken <fn hello>
+0x55572a4df8c0 mark <fn hello>
+0x55572a4df8c0 blacken <fn hello>
+0x55572a4df890 mark hello
+0x55572a4df930 mark Hello from pair
+0x55572a4df930 blacken Hello from pair
+0x55572a4df890 blacken hello
+0x55572a4dfb70 blacken p
+0x55572a4df420 blacken <native fn>
+0x55572a4df2d0 blacken clock
+0x55572a4df840 blacken pair
+0x55572a4e02e0 blacken Pair
+0x55572a4df760 blacken Pair
+0x55572a4e0340 blacken Pair instance
+0x55572a4e02b0 blacken <script>
+0x55572a4df6f0 mark <script>
+0x55572a4df6f0 blacken <script>
+0x55572a4dfcd0 mark first
+0x55572a4dfab0 mark second
+0x55572a4dfab0 blacken second
+0x55572a4dfcd0 blacken first
+-- gc end
+   collected 0 bytes (from 2701 to 2701) next at 5402
+        [ <script> ][ 1 ]
+0034     | OP_POP
+        [ <script> ]
+0035   12 OP_GET_GLOBAL      13 'pair'
+        [ <script> ][ Pair instance ]
+0037     | OP_CONSTANT        15 '2'
+        [ <script> ][ Pair instance ][ 2 ]
+0039     | OP_SET_PROPERTY    14 'second'
+        [ <script> ][ 2 ]
+0041     | OP_POP
+        [ <script> ]
+0042   13 OP_GET_GLOBAL      16 'pair'
+        [ <script> ][ Pair instance ]
+0044     | OP_GET_PROPERTY    17 'first'
+        [ <script> ][ 1 ]
+0046     | OP_GET_GLOBAL      18 'pair'
+        [ <script> ][ 1 ][ Pair instance ]
+0048     | OP_GET_PROPERTY    19 'second'
+        [ <script> ][ 1 ][ 2 ]
+0050     | OP_ADD
+        [ <script> ][ 3 ]
+0051     | OP_PRINT
+3
+        [ <script> ]
+0052   14 OP_NIL
+        [ <script> ][ nil ]
+0053     | OP_RETURN
+0x55572a4e0370 free type 0
+0x55572a4e0340 free type 4
+0x55572a4e0310 free type 2
+0x55572a4e02e0 free type 1
+0x55572a4e02b0 free type 2
+0x55572a4dfab0 free type 6
+0x55572a4dfcd0 free type 6
+0x55572a4dfb70 free type 6
+0x55572a4df840 free type 6
+0x55572a4df930 free type 6
+0x55572a4df8c0 free type 3
+0x55572a4df890 free type 6
+0x55572a4df760 free type 6
+0x55572a4df6f0 free type 3
+0x55572a4df420 free type 5
+0x55572a4df2d0 free type 6
