@@ -1,15 +1,7 @@
-fun m() {
-    var a = "hi";
-    fun f() {
-        print a;
-    }
-    return f;
-}
+class Pair{}
 
-{
-    var hi = "hi";
-    hi = "adasd";
-    print hi;
-    var c = m();
-    c();
-}
+var pair = Pair();
+
+pair.first = 1;
+pair.second = 2;
+print pair.first + pair.second;
